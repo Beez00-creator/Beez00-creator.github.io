@@ -16,7 +16,11 @@ Houston City College
 ## Competitions, Conferences, Workshops
 - National VICEROY Symposium Poster Finalist | Williamsburg, VA | April 2026  
   Selected to present research at the College of William & Mary among scholars from over 40 academic institutions, alongside defense leaders and researchers.  
-  Presented “Spectrum Awareness for Cyber Operators: Why EMS Matters in Cyber Defense.”  
+
+  Served as team leader for the development and presentation of  
+  “Spectrum Awareness for Cyber Operators: Why EMS Matters in Cyber Defense.”  
+
+  Recognized for leadership, mission focus, and disciplined execution as a U.S. Marine Corps veteran contributing to defense-aligned research.  
 
   [Official Announcement](https://www.hccs.edu/news/2026/april/houston-city-college-viceroy-scholars-selected-as-poster-finalists-for-national-symposium/)  
   [View Poster](projects.md)
