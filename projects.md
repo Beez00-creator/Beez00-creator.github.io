@@ -11,4 +11,5 @@ This project was developed and presented as a National VICEROY Symposium Poster 
 - Analyzed how RF-layer attacks can bypass traditional cybersecurity tools  
 - Applied Software Defined Radio (SDR) concepts for threat detection and signal analysis  
 
+![VICEROY Poster](assets/GarridoC_HoustonCityCollege_2026.png)
 [View Full Poster](assets/GarridoC_HoustonCityCollege_2026.pdf)
