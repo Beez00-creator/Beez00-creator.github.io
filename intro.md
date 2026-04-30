@@ -10,7 +10,7 @@ Sophmore
 Houston City College
 
 ## Organizations
-- VICEROY Scholar  
+- VICEROY Scholar (DoD-supported cybersecurity leadership program)
 - The National Society of Leadership and Success  
 
 ## Competitions, Conferences, Workshops
