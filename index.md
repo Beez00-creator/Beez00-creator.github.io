@@ -7,7 +7,7 @@ This site showcases my coursework, hands-on labs, projects, and certifications.
 - [Introductory Page](intro.md)
 - [Education & Coursework](education.md)
 - [Skills](skills.md)
-- [Projects & Labs](projects.html)
+- [Projects & Labs](projects.md)
 - [Reflections](reflections.md)
 - [Certifications](certifications.md)
 - [Contact](contact.md)
