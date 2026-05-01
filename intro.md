@@ -30,6 +30,12 @@ Houston City College
 - Cybersecurity Circle (local cybersecurity community event)
 
 ## Work Experience
+### Operations Supervisor – Star Pallets, LLC (Houston, TX)  
+*January 2021 – Present*
+
+### Infantry Team Leader – United States Marine Corps (San Diego, CA)  
+*November 2016 – November 2020*
+
 - Academic lab experience in networking, intrusion detection, and security monitoring  
 - Independent cybersecurity projects including SIEM-based threat detection and Azure honeypot deployment  
 
