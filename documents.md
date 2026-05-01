@@ -11,7 +11,7 @@ This section includes documents that demonstrate my academic achievements, techn
 
 ## 🛡️ Certifications & Recognition
 - [VICEROY Scholar Acceptance Letter](assets/Garrido_VICEROY_Acceptance_Ltr.pdf)
-- [VICEROY Symposium Poster Finalist Announcement](assets/VICEROY Symposium Announcement - 04062026 (1).pdf)
+- [VICEROY Symposium Poster Finalist Announcement](assets/VICEROY_Symposium_Announcement.pdf)
 - [Iron Cipher Certificate](assets/iron-cipher-certificate.jpg)
 
 ---
