@@ -9,5 +9,6 @@ This site showcases my coursework, hands-on labs, projects, and certifications.
 - [Skills](skills.md)
 - [Projects & Labs](projects.md)
 - [Reflections](reflections.md)
-- [Certifications](certifications.md)
+- [Certifications & Training](certifications.md)
+- [Supporting Documents](documents.md)
 - [Contact](contact.md)
