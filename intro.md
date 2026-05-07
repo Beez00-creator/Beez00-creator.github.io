@@ -54,5 +54,4 @@ A role model I look up to is **DJ Shipley**, a highly decorated former U.S. Navy
 DJ Shipley’s emphasis on discipline, routine, and daily improvement influences how I approach cybersecurity learning and hands-on labs. His mindset reinforces the importance of consistency, accountability, and continuous progression when developing technical skills for real-world security operations and incident response.
 
 ## Professional Photo
-Professional headshot coming soon.  
-(Will be added before final portfolio submission.)
+(assets/Headshot.JPG)
