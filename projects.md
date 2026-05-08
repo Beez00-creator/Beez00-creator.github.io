@@ -130,11 +130,7 @@ This XP Cyber challenge focused on implementing and verifying secure password an
 ### What I Learned
 This challenge improved my understanding of how organizations enforce secure authentication policies within enterprise Windows environments. I gained hands-on experience configuring domain security settings and learned how password policies, account lockouts, and Group Policy Objects help reduce the risk of unauthorized access and credential-based attacks.
 
-### Challenge Results
-
-![XP Cyber Challenge Report](assets/xpcyber-password-policy.png)
-
-### Supporting Documentation
+### Supporting Documentation & Challenge Results
 [View XP Cyber Challenge Report](assets/GarridoCesar_NCPReport153386.pdf)
 
 ---
