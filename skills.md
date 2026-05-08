@@ -25,7 +25,6 @@
 - Threat Detection
 - Social Engineering Awareness
 - Endpoint Security
-- Network Security
 - Defense-in-Depth
 - Security Policy Enforcement
 - System Hardening
