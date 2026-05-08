@@ -51,3 +51,50 @@ This lab improved my understanding of social engineering techniques, phishing ri
 [View NDG Lab Instructions](assets/NDG_SecPlusv4_Lab_01.pdf)
 
 ---
+
+# CyberOps Projects
+
+---
+
+## Build Your Mini SOC (Sysmon + Splunk)
+
+### Overview
+This hands-on cybersecurity project focused on building a small Security Operations Center (SOC) environment using Sysmon and Splunk. The objective was to configure endpoint logging, forward Sysmon events into Splunk, and analyze security-related activity through centralized log monitoring.
+
+### Tools & Technologies
+- Splunk
+- Sysmon
+- Windows Event Viewer
+- PowerShell
+- Windows 11
+- Log Analysis
+- SIEM Concepts
+
+### Key Tasks Performed
+- Downloaded and configured Sysmon on a Windows system
+- Installed Sysmon using a custom configuration file
+- Verified Sysmon event generation in Event Viewer
+- Configured Splunk inputs.conf to ingest Sysmon logs
+- Generated PowerShell activity to create security events
+- Queried and analyzed logs inside Splunk
+- Investigated command execution activity using search queries
+
+### Skills Developed
+- SIEM Monitoring
+- Log Analysis
+- Event Correlation
+- Endpoint Visibility
+- PowerShell Monitoring
+- Threat Detection Fundamentals
+
+### What I Learned
+This project improved my understanding of how Security Operations Centers monitor endpoint activity and investigate suspicious behavior through centralized logging. I learned how Sysmon enhances Windows logging visibility and how Splunk can be used to search, filter, and analyze security events in real time. The project also demonstrated how even basic PowerShell activity can be tracked and reviewed during investigations.
+
+### Lab Evidence
+
+![Sysmon Logs in Splunk](assets/mini-soc-splunk.png)
+
+### Supporting Documentation
+[View Mini SOC Project Documentation](assets/Project1_Mini_SOC_Fillable-2_Garrido_Cesar.docx)
+
+---
