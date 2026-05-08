@@ -90,11 +90,7 @@ This hands-on cybersecurity project focused on building a small Security Operati
 ### What I Learned
 This project improved my understanding of how Security Operations Centers monitor endpoint activity and investigate suspicious behavior through centralized logging. I learned how Sysmon enhances Windows logging visibility and how Splunk can be used to search, filter, and analyze security events in real time. The project also demonstrated how even basic PowerShell activity can be tracked and reviewed during investigations.
 
-### Lab Evidence
-
-![Sysmon Logs in Splunk](assets/mini-soc-splunk.png)
-
-### Supporting Documentation
+### Supporting Documentation & Lab Evidence
 [View Mini SOC Project Documentation](assets/Project1_Mini_SOC_Fillable-2_Garrido_Cesar.docx)
 
 ---
