@@ -22,7 +22,7 @@ This project was developed and presented as a National VICEROY Symposium Poster 
 ## NDG Security+ Lab: Social Engineering Attack
 
 ### Overview
-This guided lab focused on understanding how social engineering attacks can be used to compromise systems and bypass traditional security protections in a controlled lab environment. The lab simulated phishing and reverse-shell techniques to demonstrate how attackers attempt to gain unauthorized access to internal systems. :contentReference[oaicite:0]{index=0}
+This guided lab focused on understanding how social engineering attacks can be used to compromise systems in a controlled cybersecurity lab environment. The exercise demonstrated phishing concepts, payload delivery, reverse shell communication, and post-compromise verification techniques. :contentReference[oaicite:0]{index=0}
 
 ### Tools & Technologies
 - Kali Linux
@@ -35,17 +35,17 @@ This guided lab focused on understanding how social engineering attacks can be u
 
 ### Key Tasks Performed
 - Generated a simulated payload using msfvenom
-- Configured a reverse shell listener through Metasploit
+- Configured a reverse TCP handler through Metasploit
 - Crafted a phishing-style email within the lab environment
-- Observed how user interaction can lead to system compromise
-- Verified remote access after payload execution
+- Established a reverse shell session to the target machine
+- Verified user access, hostname, and internal IP configuration
 
 ### What I Learned
-This lab improved my understanding of social engineering techniques, phishing risks, reverse shell concepts, and the importance of layered defensive security controls. I also strengthened my familiarity with Linux command-line tools and Metasploit functionality.
+This lab improved my understanding of social engineering techniques, phishing risks, reverse shell concepts, and the importance of layered defensive security controls. I also gained hands-on experience using Linux command-line tools and the Metasploit Framework within a controlled environment.
 
-### Lab Completion Evidence
+### Lab Evidence
 
-![NDG Lab Completion](assets/ndg-lab1-completion.png)
+![Metasploit Reverse Shell Session](assets/Netlab1.png)
 
 ### Supporting Documentation
 [View NDG Lab Instructions](assets/NDG_SecPlusv4_Lab_01.pdf)
