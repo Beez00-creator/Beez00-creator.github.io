@@ -22,7 +22,7 @@ This project was developed and presented as a National VICEROY Symposium Poster 
 ## NDG Security+ Lab: Social Engineering Attack
 
 ### Overview
-This guided lab focused on understanding how social engineering attacks can be used to compromise systems in a controlled cybersecurity lab environment. The exercise demonstrated phishing concepts, payload delivery, reverse shell communication, and post-compromise verification techniques. :contentReference[oaicite:0]{index=0}
+This guided lab focused on understanding how social engineering attacks can be used to compromise systems in a controlled cybersecurity lab environment. The exercise demonstrated phishing concepts, payload delivery, reverse shell communication, and post-compromise verification techniques.
 
 ### Tools & Technologies
 - Kali Linux
