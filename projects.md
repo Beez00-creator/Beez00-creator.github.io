@@ -45,7 +45,7 @@ This lab improved my understanding of social engineering techniques, phishing ri
 
 ### Lab Evidence
 
-![Metasploit Reverse Shell Session](assets/Netlab1.png)
+![Metasploit Reverse Shell Session](assets/Netlab_1.png)
 
 ### Supporting Documentation
 [View NDG Lab Instructions](assets/NDG_SecPlusv4_Lab_01.pdf)
