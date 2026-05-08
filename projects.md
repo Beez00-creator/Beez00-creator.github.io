@@ -94,3 +94,47 @@ This project improved my understanding of how Security Operations Centers monito
 [View Mini SOC Project Documentation](assets/Project1_Mini_SOC_Fillable-2_Garrido_Cesar.docx)
 
 ---
+
+# XP Cyber Challenges
+
+---
+
+## Experience Cyber – Secure Domain Accounts & Passwords
+
+### Overview
+This XP Cyber challenge focused on implementing and verifying secure password and account lockout policies within a Windows domain environment. The objective was to configure Group Policy Objects (GPOs) to enforce organizational security requirements and strengthen account security controls.
+
+### Tools & Technologies
+- Windows Server
+- Active Directory
+- Group Policy Objects (GPO)
+- Domain Administration
+- Windows Security Policies
+
+### Key Tasks Performed
+- Created and linked domain-level Group Policy Objects (GPOs)
+- Configured account lockout thresholds and durations
+- Implemented password complexity requirements
+- Configured password history and minimum password length policies
+- Applied password age and encryption settings
+- Verified policy enforcement through challenge validation checks
+
+### Skills Developed
+- Active Directory Administration
+- Windows Domain Security
+- Group Policy Management
+- System Hardening
+- Security Policy Enforcement
+- Account Security Configuration
+
+### What I Learned
+This challenge improved my understanding of how organizations enforce secure authentication policies within enterprise Windows environments. I gained hands-on experience configuring domain security settings and learned how password policies, account lockouts, and Group Policy Objects help reduce the risk of unauthorized access and credential-based attacks.
+
+### Challenge Results
+
+![XP Cyber Challenge Report](assets/xpcyber-password-policy.png)
+
+### Supporting Documentation
+[View XP Cyber Challenge Report](assets/GarridoCesar_NCPReport153386.pdf)
+
+---
