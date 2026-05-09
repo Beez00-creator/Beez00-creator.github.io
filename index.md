@@ -12,3 +12,7 @@ This site showcases my coursework, hands-on labs, projects, and certifications.
 - [Certifications & Training](certifications.md)
 - [Supporting Documents](documents.md)
 - [Contact](contact.md)
+
+## Personal Word Cloud
+
+![Word Cloud](assets/wordcloud.png)
