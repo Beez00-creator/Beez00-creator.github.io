@@ -13,5 +13,3 @@ This site showcases my coursework, hands-on labs, projects, and certifications.
 - [Supporting Documents](documents.md)
 - [Contact](contact.md)
 
-
-![Word Cloud](assets/wordcloud.png)
