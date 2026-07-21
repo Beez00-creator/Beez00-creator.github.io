@@ -22,4 +22,5 @@ These documents validate my hands-on experience, leadership, and participation i
 ---
 
 ## Academic Documents
+- [Associate of Applied Science Diploma – Computer Systems Networking](assets/HCC_Diploma.pdf)
 - [Houston Community College Document](assets/GarridoC_HoustonCityCollege_2026.pdf)
